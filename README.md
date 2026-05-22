@@ -44,3 +44,28 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/2e7a77cd-525a-414b-b974-364b3e8e3acc =200x200)
 stolbitsa.com/fistachka/pozvoni<br><br>
 
+
+![6](https://github.com/user-attachments/assets/49d5ee21-9594-4add-815b-8728f8c467c5)
+![5](https://github.com/user-attachments/assets/40bcbbf5-0f3f-4edb-8def-90df07157c7a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+<img width="4106" height="2737" alt="5" src="https://github.com/user-attachments/assets/47f4776f-ceab-43c8-a0b5-6943d379d3ee" />
+
+
