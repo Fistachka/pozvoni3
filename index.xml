@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>pozvoni3</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="Fistachka" repo="trava"/>
   <readme>
     <ru>b4b8f65eaa9d6f7f8f8504cdcbdf8431eadb25144518337fce780cc19e0e38e1</ru>
@@ -34,14 +34,14 @@
     <tonalities>2</tonalities>
     <video name="22.mp4" size="1224122" type="video/mp4" volume="0.5">755325db0f0579479091a91ecdff78d30aa4415c047f397c99509e85a3c103eb</video>
     <notes>
-      <note number="1" values="18" ticks="275" durationTicks="37" ppq="96" velocity="0.764"/>
-      <note number="2" values="28" ticks="317" durationTicks="32" ppq="96" velocity="0.776"/>
-      <note number="3" values="38" ticks="362" durationTicks="42" ppq="96" velocity="0.827"/>
-      <note number="4" values="18" ticks="411" durationTicks="49" ppq="96" velocity="0.778"/>
-      <note number="5" values="38" ticks="490" durationTicks="25" ppq="96" velocity="0.827"/>
-      <note number="6" values="58" ticks="514" durationTicks="24" ppq="96" velocity="0.827"/>
-      <note number="7" values="78" ticks="539" durationTicks="50" ppq="96" velocity="0.827"/>
-      <note number="8" values="68" ticks="597" durationTicks="62" ppq="96" velocity="0.827"/>
+      <note number="1" values="18" ticks="271" durationTicks="37" ppq="96" velocity="0.764"/>
+      <note number="2" values="28" ticks="310" durationTicks="32" ppq="96" velocity="0.776"/>
+      <note number="3" values="38" ticks="349" durationTicks="29" ppq="96" velocity="0.827"/>
+      <note number="4" values="18" ticks="389" durationTicks="24" ppq="96" velocity="0.778"/>
+      <note number="5" values="38" ticks="417" durationTicks="25" ppq="96" velocity="0.827"/>
+      <note number="6" values="58" ticks="450" durationTicks="24" ppq="96" velocity="0.827"/>
+      <note number="7" values="78" ticks="487" durationTicks="50" ppq="96" velocity="0.827"/>
+      <note number="8" values="68" ticks="583" durationTicks="62" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="3">
