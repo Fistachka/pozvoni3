@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>pozvoni3</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="Fistachka" repo="trava"/>
   <readme>
     <ru>b4b8f65eaa9d6f7f8f8504cdcbdf8431eadb25144518337fce780cc19e0e38e1</ru>
@@ -122,14 +122,14 @@
     <tonalities>2</tonalities>
     <video name="27.mp4" size="1094961" type="video/mp4" volume="0.5">5d308c15219000a3e58f4aefc0e8b9167c57f79fc722845af6cc915725486aaa</video>
     <notes>
-      <note number="1" values="68" ticks="97" durationTicks="42" ppq="96" velocity="0.764"/>
-      <note number="2" values="68" ticks="161" durationTicks="16" ppq="96" velocity="0.772"/>
-      <note number="3" values="188" ticks="193" durationTicks="45" ppq="96" velocity="0.827"/>
-      <note number="4" values="188" ticks="255" durationTicks="27" ppq="96" velocity="0.772"/>
-      <note number="5" values="78" ticks="301" durationTicks="38" ppq="96" velocity="0.827"/>
-      <note number="6" values="68" ticks="365" durationTicks="22" ppq="96" velocity="0.827"/>
-      <note number="7" values="58" ticks="390" durationTicks="44" ppq="96" velocity="0.827"/>
-      <note number="8" values="58" ticks="451" durationTicks="83" ppq="96" velocity="0.827"/>
+      <note number="1" values="68" ticks="320" durationTicks="22" ppq="96" velocity="0.764"/>
+      <note number="2" values="68" ticks="357" durationTicks="23" ppq="96" velocity="0.772"/>
+      <note number="3" values="188" ticks="392" durationTicks="45" ppq="96" velocity="0.827"/>
+      <note number="4" values="188" ticks="468" durationTicks="38" ppq="96" velocity="0.772"/>
+      <note number="5" values="78" ticks="512" durationTicks="54" ppq="96" velocity="0.827"/>
+      <note number="6" values="68" ticks="575" durationTicks="38" ppq="96" velocity="0.827"/>
+      <note number="7" values="58" ticks="626" durationTicks="26" ppq="96" velocity="0.827"/>
+      <note number="8" values="58" ticks="676" durationTicks="90" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="8">
