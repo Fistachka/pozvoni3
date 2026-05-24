@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>pozvoni3</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="trava"/>
   <readme>
     <ru>b4b8f65eaa9d6f7f8f8504cdcbdf8431eadb25144518337fce780cc19e0e38e1</ru>
@@ -158,13 +158,13 @@
     <tonalities>2</tonalities>
     <video name="29.mp4" size="1149889" type="video/mp4" volume="0.5">a69f5a680b1488a4f197d3311f19c0906d9a97c1f14a921a992ee07234f55e70</video>
     <notes>
-      <note number="1" values="28" ticks="177" durationTicks="22" ppq="96" velocity="0.764"/>
-      <note number="2" values="28" ticks="214" durationTicks="28" ppq="96" velocity="0.772"/>
-      <note number="3" values="38" ticks="250" durationTicks="28" ppq="96" velocity="0.827"/>
+      <note number="1" values="28" ticks="155" durationTicks="40" ppq="96" velocity="0.764"/>
+      <note number="2" values="28" ticks="217" durationTicks="28" ppq="96" velocity="0.772"/>
+      <note number="3" values="38" ticks="251" durationTicks="28" ppq="96" velocity="0.827"/>
       <note number="4" values="28" ticks="313" durationTicks="27" ppq="96" velocity="0.772"/>
-      <note number="5" values="198" ticks="355" durationTicks="29" ppq="96" velocity="0.827"/>
-      <note number="6" values="28" ticks="388" durationTicks="32" ppq="96" velocity="0.827"/>
-      <note number="7" values="58" ticks="427" durationTicks="133" ppq="96" velocity="0.827"/>
+      <note number="5" values="198" ticks="347" durationTicks="29" ppq="96" velocity="0.827"/>
+      <note number="6" values="28" ticks="407" durationTicks="32" ppq="96" velocity="0.827"/>
+      <note number="7" values="58" ticks="442" durationTicks="133" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
 </level>
